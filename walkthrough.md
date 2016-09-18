@@ -50,4 +50,13 @@
 1. Push to Github
   - `$ git push`
 
+## Stashing
+1. Do some work, not quite ready for a commit.
+1. Check out another branch to examine changes.
+1. Whoops!
+  - `$ git stash`
+1. Now your changes are stashed away, you can checkout the branch.
+1. Ready to start working again?
+  - `$ git stash apply`
+
 [<-Previous](git.md)
