@@ -46,3 +46,4 @@ This repo is all about learning how to use Github.  It is meant to take the plac
 ## Thanks
 - Jesse Szwedko
 - [Lisa Rost](https://github.com/lisacharlotterost/talk-slides/tree/master/1608_GithubGuide)
+- [iconmonstr](http://iconmonstr.com/)
