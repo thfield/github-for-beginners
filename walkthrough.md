@@ -36,15 +36,18 @@
     -`$ git push`
 
 ##  Parallel Development
+1. Pull from upstream; the repos are the same
 1. Make some changes
   - `$ echo "qwertyuiop" >> foo.txt`
   - `$ git commit -am 'add qwerty`
 1. The repo gets changed upstream
-1. Push local changes to Github
-  -`$ git push`
-1. Uh-Oh!
-  -`$ git pull`
+1. Push local changes to Github - Uh Oh!
+  - `$ git push`
+1. Bring in upstream changes
+  - `$ git pull`
 1. Resolve any conflicts
  - `$ git commit`
+1. Push to Github
+  - `$ git push`
 
 [<-Previous](git.md)

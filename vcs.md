@@ -23,10 +23,14 @@ etc
 A "group" of files, like a directory.  Changes to files in the repo are tracked, the history is saved.
 
 ## Forking
-Making a copy of someone else's repo as your own.  Changes to the "upstream" fork can be brought in, you can request to "pull" in downstream changes to the original repo.
+Making a copy of another person or organization's repo.  Both parties can work on their repos at the same time, independent of one another. Changes to the "upstream" fork can be merged with your branch and, you can request to "pull" your downstream changes into the original repo.
 
 ## Branching
-A localized fork. 
+Making a copy within a repo.  You can make changes to the code on this new branch without affecting the old branch.  If you wanted to make a big change without worrying about breaking something, you can make a new branch and try out crazy new ideas.  When you're done, you can merge the two branches together.
 
+1. Repositories
+1. `git fork`ing the spoon-knife repo from Octocat's Github to Your Github.
+1. You work on your repo...
+1. While Octocat works independently on his.
 
 [<-Previous](getting-started.md)  [Next->](git.md)
