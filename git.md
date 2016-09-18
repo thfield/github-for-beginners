@@ -2,7 +2,7 @@
 
 ## History
 - Linus Torvalds
-- build for the development of large, distributed, open source software projects
+- Made for the development of large, distributed, open source software projects
 
 
 ## The command line
@@ -12,8 +12,9 @@
 - commit
 - push
 - pull
-- merge
 - branch
+- merge
 - checkout
+
 
 [<-Previous](vcs.md)  [Next->](github.md)

@@ -17,7 +17,6 @@ This repo is all about learning how to use Github.  It is meant to take the plac
 `ls` LiSt files in current directory  
 `command -f [--flag] arg` General Syntax: run *command* with the "flag" (or "option") -*f*, pass in "argument" *arg*
 
-
 ### vi
 `esc > :q! > return` quit without saving  
 `esc > ZZ > return` save and quit  
@@ -25,10 +24,14 @@ This repo is all about learning how to use Github.  It is meant to take the plac
 ### man pages
 `q` quit  
 
+
 ## Further Resources
 - [Command Cheatsheet](https://services.github.com/kit/downloads/github-git-cheat-sheet.pdf)
 - [Tutorial](https://www.atlassian.com/git/tutorials/what-is-version-control)
-- [Course](https://services.github.com/kit/courses/github-for-everyone)
+- [Github Guides](https://guides.github.com/)
+  - [Hello World](https://guides.github.com/activities/hello-world/)
+- [Git Tips](https://github.com/git-tips/tips)
+- [Oh shit, git!](http://ohshitgit.com/)
 
 ### Free Courses
 - [Github](https://services.github.com/training/)
@@ -39,3 +42,7 @@ This repo is all about learning how to use Github.  It is meant to take the plac
 ### Markdown
 [Github Markdown](https://guides.github.com/features/mastering-markdown/)
 
+
+## Thanks
+- Jesse Szwedko
+- [Lisa Rost](https://github.com/lisacharlotterost/talk-slides/tree/master/1608_GithubGuide)
