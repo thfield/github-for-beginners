@@ -1,22 +1,5 @@
 # Git - The Basics
 
-## History
-- Linus Torvalds
-- Made for the development of large, distributed, open source software projects
-
-
-## The command line
-- init
-- status
-- add
-- commit
-- push
-- pull
-- branch
-- merge
-- checkout
-- stash
-
 ## Repositories
 A "group" of files, like a directory.  Changes to files in the repo are tracked, the history is saved.
 
@@ -34,6 +17,19 @@ A snapshot of files in a certain state, like a video game "save point".  You can
 1. `git fork`ing the spoon-knife repo from Octocat's Github to Your Github.
 1. You work on your repo...
 1. While Octocat works independently on his.
+
+## The command line
+- init
+- status
+- add
+- commit
+- push
+- pull
+- branch
+- merge
+- checkout
+- stash
+
 
 
 

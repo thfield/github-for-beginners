@@ -1,7 +1,14 @@
 # Github - The Basics
 ## Why Github?
-it is where developers *are*:
-   "sign in with facebook/twitter/google" is "sign in with github" for developer sites
+Alternatives:
+- [Gitlab](http://gitlab.org/)
+- [Bitbucket](https://bitbucket.org/)
+- [SourceForge](http://sourceforge.net/)
+- [etc...](http://lmgtfy.com/?q=github+alternatives)  
+
+Github has become the defacto standard.
+it is where developers *are*:  
+"sign in with facebook/twitter/google" is "sign in with github" for developer sites
 
 ## The Website
 
