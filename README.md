@@ -34,6 +34,7 @@ This repo is all about learning how to use Github.  It is meant to take the plac
 - [Oh shit, git!](http://ohshitgit.com/)
 
 ### Free Courses
+- [Try Github](http://try.github.io)  
 - [Github](https://services.github.com/training/)
 - [Codeschool](https://www.codeschool.com/courses/try-git)
 - [Codecademy](https://www.codecademy.com/learn/learn-git)
