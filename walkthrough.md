@@ -39,7 +39,7 @@
 1. Pull from upstream; the repos are the same
 1. Make some changes
   - `$ echo "qwertyuiop" >> foo.txt`
-  - `$ git commit -am 'add qwerty`
+  - `$ git commit -am 'add qwerty'`
 1. The repo gets changed upstream
 1. Push local changes to Github - Uh Oh!
   - `$ git push`
