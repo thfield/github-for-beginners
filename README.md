@@ -8,7 +8,6 @@ This repo is all about learning how to use Github.  It is meant to take the plac
 1. [The Basics of Git](git.md)
 1. [Github](github.md)
 1. [Workflow Walkthrough](walkthrough.md)
-1. ~~[Markdown]~~
 
 ## Miscellaneous
 ### bash
@@ -17,11 +16,15 @@ This repo is all about learning how to use Github.  It is meant to take the plac
 `ls` LiSt files in current directory  
 `command -f [--flag] arg` General Syntax: run *command* with the "flag" (or "option") -*f*, pass in "argument" *arg*
 
-### vi
+### vim
 `esc > :q! > return` quit without saving  
-`esc > ZZ > return` save and quit  
+`esc > ZZ` save and quit  
 
-### man pages
+### nano
+`ctrl-O` save (write Out)  
+`ctrl-X` exit  
+
+### man pages / less / more
 `q` quit  
 
 

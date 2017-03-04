@@ -218,10 +218,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.63802083"
-     inkscape:cx="960"
-     inkscape:cy="540"
+     inkscape:cx="646.53061"
+     inkscape:cy="602.69388"
      inkscape:document-units="px"
-     inkscape:current-layer="g7863"
+     inkscape:current-layer="layer2"
      showgrid="false"
      units="px"
      inkscape:snap-global="false"
@@ -918,7 +918,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <path
-       style="opacity:1;fill:#ffe680;fill-rule:evenodd;stroke:#ffe680;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker7207)"
+       style="opacity:0.993;fill:#ffe680;fill-rule:evenodd;stroke:#ffe680;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker7207)"
        d="m 1466.5016,653.71728 0,-235.427"
        id="path7205"
        inkscape:connector-curvature="0" />
@@ -987,7 +987,7 @@
     </g>
     <g
        id="g8084"
-       transform="matrix(0.69886901,0,0,0.69886901,-718.87757,-764.60627)"
+       transform="matrix(0.69886901,0,0,0.69886901,-742.38778,-777.14504)"
        style="opacity:1">
       <g
          id="g8086">
@@ -1014,7 +1014,7 @@
            id="flowPara8096">$ git commit</flowPara></flowRoot>    </g>
     <path
        sodipodi:nodetypes="cc"
-       style="opacity:1;fill:#ffe680;fill-rule:evenodd;stroke:#ffe680;stroke-width:3.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker8216)"
+       style="opacity:0.6;fill:#ffe680;fill-rule:evenodd;stroke:#ffe680;stroke-width:3.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker8216)"
        d="m 371.59671,288.43418 181.90597,-1.53537"
        id="path8214"
        inkscape:connector-curvature="0" />
@@ -1082,7 +1082,7 @@
     </g>
     <g
        id="g14956"
-       transform="translate(5231.7513,-516.6513)"
+       transform="translate(5198.8371,-505.67987)"
        style="opacity:1">
       <g
          id="g14958"
@@ -1406,7 +1406,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.2480278px;line-height:125%;font-family:Hack;-inkscape-font-specification:'Hack, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000" /></flowRegion><flowPara
          id="flowPara4843">spoon-knife</flowPara></flowRoot>    <g
        id="g9325"
-       style="opacity:1">
+       style="opacity:0.6">
       <path
          style="opacity:1;fill:#ffffcc;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 650.51434,686.6521 48.74319,0 9.74858,22.13157 251.56515,0 0,132.78942 -310.05692,0 z"
@@ -1569,7 +1569,7 @@
        sodipodi:nodetypes="cc" />
     <g
        id="g9354"
-       style="opacity:1">
+       style="opacity:0.6">
       <path
          sodipodi:nodetypes="ccccccc"
          inkscape:connector-curvature="0"
@@ -2156,7 +2156,7 @@
        d="m 193.81453,412.34585 0,230.93512"
        style="opacity:0;fill:#ffe680;fill-rule:evenodd;stroke:#ffe680;stroke-width:3.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker8767)" />
     <g
-       transform="translate(3271.6639,-641.75894)"
+       transform="translate(3259.1251,-651.16302)"
        id="g9527">
       <g
          transform="matrix(0.73651038,0,0,0.73651038,-4057.8822,-63.729143)"
@@ -2193,7 +2193,7 @@
        style="opacity:0;fill:#d40000" />
     <path
        sodipodi:nodetypes="cc"
-       style="opacity:0;fill:#ffe680;fill-rule:evenodd;stroke:#ffe680;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker11160)"
+       style="opacity:1;fill:#ffe680;fill-rule:evenodd;stroke:#ffe680;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker11160)"
        d="m 1012.2897,293.44128 144.0755,-1.67639"
        id="path11158"
        inkscape:connector-curvature="0" />
