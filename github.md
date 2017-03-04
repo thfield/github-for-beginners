@@ -29,8 +29,7 @@ it is where developers *are*:
 - Integrate work by others
 
 ### Projects
-- Cards
-- This is brand new; I haven't used it yet.
+- Kanban Cards
 
 ### Wiki
 - documentation

@@ -1,6 +1,7 @@
 # Walkthrough
 ## The Basics
 1. Create the repo on Github
+  - `git init`
 1. Make a local copy
   - `$ git clone {url}`
 1. Add some files
